@@ -1,5 +1,5 @@
-def display_board
-  puts "   |   |   "
+def display_board(x_wins)
+  puts " x | x | x "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
@@ -7,4 +7,5 @@ def display_board
 end
 
 display_board
+
 
