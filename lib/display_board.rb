@@ -7,8 +7,9 @@ def display_board
 end
 
 display_board
-def display_board(board)
+def board
   puts board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 end
-display_board
+
+display_board(board)
 
