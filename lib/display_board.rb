@@ -6,6 +6,6 @@ def display_board(x_wins)
   puts "   |   |   "
 end
 
-display_board(x_wins)
+display_board
 
 
