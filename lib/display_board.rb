@@ -10,5 +10,5 @@ display_board
 def display_board(board)
   puts board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 end
-display_board(board)
+display_board
 
